@@ -1,4 +1,4 @@
-# 🇹🇳 Tunisia Touristic — Intelligent Tourist Guide  
+# 🗺️🇹🇳 Tunisia Touristic — Tourist Guide  
 
 [![Flutter](https://img.shields.io/badge/Flutter-Framework-blue?logo=flutter&logoColor=white)](https://flutter.dev/)  
 [![Firebase](https://img.shields.io/badge/Firebase-Firestore-orange?logo=firebase&logoColor=white)](https://firebase.google.com/)  
@@ -48,6 +48,6 @@ It helps **tourists** and **locals** discover Tunisia’s popular and hidden des
 
 ## 📂 Clone the repository
 
-git clone https://github.com/your-username/tunisia-touristic.git
-cd tunisia-touristic
+``` git clone https://github.com/your-username/tunisia-touristic.git
+cd tunisia-touristic ```
 
