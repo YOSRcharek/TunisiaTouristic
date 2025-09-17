@@ -46,45 +46,8 @@ It helps **tourists** and **locals** discover Tunisia’s popular and hidden des
 
 ---
 
-## 📂 Firestore Structure
-```plaintext
-users/
-  userId/
-    name
-    email
-    favorites [destinationId]
-
-destinations/
-  destinationId/
-    name
-    description
-    location { lat, lng }
-    images []
-    rating🚀 Installation
-
-Clone the repository
+## 📂 Clone the repository
 
 git clone https://github.com/your-username/tunisia-touristic.git
 cd tunisia-touristic
 
-
-Install dependencies
-
-flutter pub get
-
-
-Configure Firebase
-
-Add google-services.json (Android) or GoogleService-Info.plist (iOS).
-
-Run the app
-
-flutter run
-
-🌟 Future Enhancements
-
-🤖 AI-based travel recommendations
-
-📶 Offline mode with local caching
-
-🗓️ Custom trip itineraries
